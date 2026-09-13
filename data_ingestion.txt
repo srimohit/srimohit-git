@@ -15,4 +15,5 @@ I am ingesting big data
 
 I am ingesting big data
 
+bug fixed 
 i am ingesting batch data
